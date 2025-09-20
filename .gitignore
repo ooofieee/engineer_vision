@@ -3,3 +3,9 @@ install/
 log/
 .vscode/
 .trash/
+
+# 忽略资源文件
+src/*/resources/
+*.mp4
+*.avi
+*.onnx
